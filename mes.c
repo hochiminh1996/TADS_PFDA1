@@ -1,7 +1,7 @@
 // ALGORITMO B�SICO : CONTADOR DE CARNEIRO
 #include <stdio.h>
 #include <locale.h>
-
+//ḾODIFICAÇÃO
 int main()
 {
 	setlocale(LC_ALL,"PORTUGUESE");
